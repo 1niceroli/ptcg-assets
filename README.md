@@ -14,6 +14,8 @@ Currently i'm trying to collect the following assets:
 - Logos
 - Symbols
 - Banners
+- Mini-Tins
+- Tins
 
 For now the collection is only in english, but i'm planning on adding german and french images as well. 
 
