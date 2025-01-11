@@ -6,7 +6,7 @@ Putting this collection together took alomst half a year, so i hope someone else
 
 Currently i'm trying to collect the following assets:
 
-- Packshots
+- Packshots / Booster Images
 - Elite Trainer Boxes
 - Collections
 - Blisters
@@ -14,3 +14,5 @@ Currently i'm trying to collect the following assets:
 - Logos
 - Symbols
 - Banners
+
+For now the collection is only in english, but i'm planning on adding german and french images as well. 
