@@ -195,3 +195,4 @@ tcgp1a | en | Mythical Island | Trading Card Game Pocket
 sv8pt5 | en | Prismatic Evolutions | Scarlet & Violet
 sv9 | en | Journey Together | Scarlet & Violet
 tcgpa2 | en | Space-Time Smackdown | Trading Card Game Pocket
+sv10 | jp | Glory of Team Rocket | Scarlet & Violet JP
