@@ -210,11 +210,11 @@ sv11b | jp       | Black Bolt                    | Scarlet & Violet JP
 
 ID | Language | Name                 | Series
 --- |----------|----------------------| ---
-sv7 | de       | Stellarkrone                      | Scarlet & Violet
-sv8 | de       | Stürmische Funken                     | Scarlet & Violet
-sv8pt5 | de       | Prismatische Entwicklungen               | Scarlet & Violet
-sv9 | de       | Reisegefährten                   | Scarlet & Violet
-sv10 | de       | Ewige Rivalen                    | Scarlet & Violet
+sv7 | de       | Stellarkrone                      | Karmesin & Purpur
+sv8 | de       | Stürmische Funken                     | Karmesin & Purpur
+sv8pt5 | de       | Prismatische Entwicklungen               | Karmesin & Purpur
+sv9 | de       | Reisegefährten                   | Karmesin & Purpur
+sv10 | de       | Ewige Rivalen                    | Karmesin & Purpur
 
 
 ## Trading Card Game Pocket
