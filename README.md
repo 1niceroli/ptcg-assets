@@ -226,7 +226,7 @@ tcgp1a | en       | Mythical Island                    | Trading Card Game Pocke
 tcgpa2 | en       | Space-Time Smackdown               | Trading Card Game Pocket
 tcgpa2a | en       | Triumphant Light                   | Trading Card Game Pocket
 tcgpa2b | en       | Shining Revelry                    | Trading Card Game Pocket
-tcgpa2b | en       | Celestial Guardians                    | Trading Card Game Pocket
+tcgpa3 | en       | Celestial Guardians                    | Trading Card Game Pocket
 
 ## Specials
 
