@@ -171,16 +171,51 @@ sv8 | en       | Surging Sparks                     | Scarlet & Violet
 sv8pt5 | en       | Prismatic Evolutions               | Scarlet & Violet
 sv9 | en       | Journey Together                   | Scarlet & Violet
 sv10 | en       | Destined Rivals                    | Scarlet & Violet
+sv11w | en       | White Flare                    | Scarlet & Violet
+sv11b | en       | Black Bolt                    | Scarlet & Violet
 
 ## Japanese
 
 ID | Language | Name                 | Series
 --- |----------|----------------------| ---
 s6a | jp       | Eevee Herores        | Sword & Shield JP
-sv8| jp       | Terestal Festival EX | Scarlet & Violet JP
+s12a | jp       | VSTAR Universe        | Sword & Shield JP
+sv1s | ja       | Scarlet ex     | Scarlet & Violet JP
+sv1v | ja       | Violet ex      | Scarlet & Violet JP
+sv1a | ja       | Triplet Beat      | Scarlet & Violet JP
+sv2d | ja       | Clay Burst      | Scarlet & Violet JP
+sv2p | ja       | Snow Hazard      | Scarlet & Violet JP
+sv2a | ja       | Pokémon Card 151      | Scarlet & Violet JP
+sv3 | ja       | Ruler of the Black Flame      | Scarlet & Violet JP
+sv3a | ja       | Raging Surf      | Scarlet & Violet JP
+sv4m | ja       | Future Flash      | Scarlet & Violet JP
+sv4k | ja       | Ancient Roar      | Scarlet & Violet JP
+sv4a | ja       | Shiny Treasure ex      | Scarlet & Violet JP
+sv5m | ja       | Cyber Judge      | Scarlet & Violet JP
+sv5k | ja       | Wild Force      | Scarlet & Violet JP
+sv5a | ja       | Crimson Haze      | Scarlet & Violet JP
+sv6 | ja       | Mask of Change      | Scarlet & Violet JP
+sv6a | ja       | Night Wanderer      | Scarlet & Violet JP
+sv7 | ja       | Stellar Miracle      | Scarlet & Violet JP
+sv7a | ja       | Paradise Dragona      | Scarlet & Violet JP
+sv8 | ja       | Super Electric Breaker      | Scarlet & Violet JP
+sv8a| jp       | Terestal Festival EX | Scarlet & Violet JP
 sv9 | ja       | Battle Partners      | Scarlet & Violet JP
 sv9a | jp       | Hot Wind Arena       | Scarlet & Violet JP
 sv10 | jp       | Glory of Team Rocket | Scarlet & Violet JP
+sv11w | jp       | White Flare                    | Scarlet & Violet JP
+sv11b | jp       | Black Bolt                    | Scarlet & Violet JP
+
+## German
+
+ID | Language | Name                 | Series
+--- |----------|----------------------| ---
+sv7 | de       | Stellarkrone                      | Scarlet & Violet
+sv8 | de       | Stürmische Funken                     | Scarlet & Violet
+sv8pt5 | de       | Prismatische Entwicklungen               | Scarlet & Violet
+sv9 | de       | Reisegefährten                   | Scarlet & Violet
+sv10 | de       | Ewige Rivalen                    | Scarlet & Violet
+
 
 ## Trading Card Game Pocket
 
@@ -191,6 +226,7 @@ tcgp1a | en       | Mythical Island                    | Trading Card Game Pocke
 tcgpa2 | en       | Space-Time Smackdown               | Trading Card Game Pocket
 tcgpa2a | en       | Triumphant Light                   | Trading Card Game Pocket
 tcgpa2b | en       | Shining Revelry                    | Trading Card Game Pocket
+tcgpa2b | en       | Celestial Guardians                    | Trading Card Game Pocket
 
 ## Specials
 
@@ -205,7 +241,7 @@ pop6 | en       | POP Series 6                       | POP
 pop7 | en       | POP Series 7                       | POP
 pop8 | en       | POP Series 8                       | POP
 pop9 | en       | POP Series 9                       | POP
-ru1 | en       | Pokémon Rumble                     | Other
+ru1  | en       | Pokémon Rumble                     | Other
 mcd11 | en       | McDonald's Collection 2011         | Other
 mcd12 | en       | McDonald's Collection 2012         | Other
 mcd14 | en       | McDonald's Collection 2014         | Other
