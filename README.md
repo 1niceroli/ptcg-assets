@@ -227,6 +227,7 @@ tcgpa2 | en       | Space-Time Smackdown               | Trading Card Game Pocke
 tcgpa2a | en       | Triumphant Light                   | Trading Card Game Pocket
 tcgpa2b | en       | Shining Revelry                    | Trading Card Game Pocket
 tcgpa3 | en       | Celestial Guardians                    | Trading Card Game Pocket
+tcgpa3a | en       | Extradimensional Crisis                    | Trading Card Game Pocket
 
 ## Specials
 
