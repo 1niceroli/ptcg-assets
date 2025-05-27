@@ -213,6 +213,9 @@ Currently included sets are:
 | csm1a | zh-CN    | Storming Emergence: Radiance | Sun & Moon CN |
 | csm1b | zh-CN    | Storming Emergence: Verdant  | Sun & Moon CN |
 | csm1c | zh-CN    | Storming Emergence: Abundant | Sun & Moon CN |
+| csm1c | zh-CN    | Shining Synergy: Shower      | Sun & Moon CN |
+| csm1c | zh-CN    | Shining Synergy: Supreme     | Sun & Moon CN |
+| csm1c | zh-CN    | Shining Synergy: Summon      | Sun & Moon CN |
 
 ## German
 
@@ -226,41 +229,41 @@ Currently included sets are:
 
 ## Trading Card Game Pocket
 
-ID | Language | Name                               | Series
---- |----------|------------------------------------| ---
-tcgp1 | en       | Genetic Apex                       | Trading Card Game Pocket
-tcgp1a | en       | Mythical Island                    | Trading Card Game Pocket
-tcgpa2 | en       | Space-Time Smackdown               | Trading Card Game Pocket
-tcgpa2a | en       | Triumphant Light                   | Trading Card Game Pocket
-tcgpa2b | en       | Shining Revelry                    | Trading Card Game Pocket
-tcgpa3 | en       | Celestial Guardians                    | Trading Card Game Pocket
-tcgpa3a | en       | Extradimensional Crisis                    | Trading Card Game Pocket
+| ID      | Language | Name                    | Series                   |
+|---------|----------|-------------------------|--------------------------|
+| tcgp1   | en       | Genetic Apex            | Trading Card Game Pocket |
+| tcgp1a  | en       | Mythical Island         | Trading Card Game Pocket |
+| tcgpa2  | en       | Space-Time Smackdown    | Trading Card Game Pocket |
+| tcgpa2a | en       | Triumphant Light        | Trading Card Game Pocket |
+| tcgpa2b | en       | Shining Revelry         | Trading Card Game Pocket |
+| tcgpa3  | en       | Celestial Guardians     | Trading Card Game Pocket |
+| tcgpa3a | en       | Extradimensional Crisis | Trading Card Game Pocket |
 
 ## Specials
 
-ID | Language | Name                               | Series
---- |----------|------------------------------------| ---
-pop1 | en       | POP Series 1                       | POP
-pop2 | en       | POP Series 2                       | POP
-pop3 | en       | POP Series 3                       | POP
-pop4 | en       | POP Series 4                       | POP
-pop5 | en       | POP Series 5                       | POP
-pop6 | en       | POP Series 6                       | POP
-pop7 | en       | POP Series 7                       | POP
-pop8 | en       | POP Series 8                       | POP
-pop9 | en       | POP Series 9                       | POP
-ru1  | en       | Pokémon Rumble                     | Other
-mcd11 | en       | McDonald's Collection 2011         | Other
-mcd12 | en       | McDonald's Collection 2012         | Other
-mcd14 | en       | McDonald's Collection 2014         | Other
-mcd15 | en       | McDonald's Collection 2015         | Other
-mcd16 | en       | McDonald's Collection 2016         | Other
-mcd17 | en       | McDonald's Collection 2017         | Other
-mcd18 | en       | McDonald's Collection 2018         | Other
-mcd19 | en       | McDonald's Collection 2019         | Other
-fut20 | en       | Pokémon Futsal Collection          | Other
-mcd21 | en       | McDonald's Collection 2021         | Other
-mcd22 | en       | McDonald's Collection 2022         | Other
-tot22 | en       | Trick or Trade 2022                | Special
-tot23 | en       | Trick or Trade 2023                | Special
-tot24 | en       | Trick or Trade 2024                | Special
+| ID    | Language | Name                       | Series  |
+|-------|----------|----------------------------|---------|
+| pop1  | en       | POP Series 1               | POP     |
+| pop2  | en       | POP Series 2               | POP     |
+| pop3  | en       | POP Series 3               | POP     |
+| pop4  | en       | POP Series 4               | POP     |
+| pop5  | en       | POP Series 5               | POP     |
+| pop6  | en       | POP Series 6               | POP     |
+| pop7  | en       | POP Series 7               | POP     |
+| pop8  | en       | POP Series 8               | POP     |
+| pop9  | en       | POP Series 9               | POP     |
+| ru1   | en       | Pokémon Rumble             | Other   |
+| mcd11 | en       | McDonald's Collection 2011 | Other   |
+| mcd12 | en       | McDonald's Collection 2012 | Other   |
+| mcd14 | en       | McDonald's Collection 2014 | Other   |
+| mcd15 | en       | McDonald's Collection 2015 | Other   |
+| mcd16 | en       | McDonald's Collection 2016 | Other   |
+| mcd17 | en       | McDonald's Collection 2017 | Other   |
+| mcd18 | en       | McDonald's Collection 2018 | Other   |
+| mcd19 | en       | McDonald's Collection 2019 | Other   |
+| fut20 | en       | Pokémon Futsal Collection  | Other   |
+| mcd21 | en       | McDonald's Collection 2021 | Other   |
+| mcd22 | en       | McDonald's Collection 2022 | Other   |
+| tot22 | en       | Trick or Trade 2022        | Special |
+| tot23 | en       | Trick or Trade 2023        | Special |
+| tot24 | en       | Trick or Trade 2024        | Special |
