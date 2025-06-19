@@ -238,6 +238,7 @@ Currently included sets are:
 | tcgpa2b | en       | Shining Revelry         | Trading Card Game Pocket |
 | tcgpa3  | en       | Celestial Guardians     | Trading Card Game Pocket |
 | tcgpa3a | en       | Extradimensional Crisis | Trading Card Game Pocket |
+| tcgpa3b | en       | Eevee Grove             | Trading Card Game Pocket |
 
 ## Specials
 
