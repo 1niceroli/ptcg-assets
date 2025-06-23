@@ -173,6 +173,7 @@ Currently included sets are:
 | sv10        | en       | Destined Rivals                    | Scarlet & Violet       |
 | sv11w       | en       | White Flare                        | Scarlet & Violet       |
 | sv11b       | en       | Black Bolt                         | Scarlet & Violet       |
+| meg (tba)   | en       | Mega Evolution                     | Scarlet & Violet       |
 
 ## Japanese
 
@@ -205,6 +206,8 @@ Currently included sets are:
 | sv10  | ja       | Glory of Team Rocket     | Scarlet & Violet JP |
 | sv11w | ja       | White Flare              | Scarlet & Violet JP |
 | sv11b | ja       | Black Bolt               | Scarlet & Violet JP |
+| sv11b | ja       | Mega Brave               | Scarlet & Violet JP |
+| sv11b | ja       | Mega Symphonia           | Scarlet & Violet JP |
 
 ## Simplified Chinese
 
