@@ -177,37 +177,37 @@ Currently included sets are:
 
 ## Japanese
 
-| ID    | Language | Name                     | Series              |
-|-------|----------|--------------------------|---------------------|
-| s6a   | ja       | Eevee Herores            | Sword & Shield JP   |
-| s12a  | jp       | VSTAR Universe           | Sword & Shield JP   |
-| sv1s  | ja       | Scarlet ex               | Scarlet & Violet JP |
-| sv1v  | ja       | Violet ex                | Scarlet & Violet JP |
-| sv1a  | ja       | Triplet Beat             | Scarlet & Violet JP |
-| sv2d  | ja       | Clay Burst               | Scarlet & Violet JP |
-| sv2p  | ja       | Snow Hazard              | Scarlet & Violet JP |
-| sv2a  | ja       | Pokémon Card 151         | Scarlet & Violet JP |
-| sv3   | ja       | Ruler of the Black Flame | Scarlet & Violet JP |
-| sv3a  | ja       | Raging Surf              | Scarlet & Violet JP |
-| sv4m  | ja       | Future Flash             | Scarlet & Violet JP |
-| sv4k  | ja       | Ancient Roar             | Scarlet & Violet JP |
-| sv4a  | ja       | Shiny Treasure ex        | Scarlet & Violet JP |
-| sv5m  | ja       | Cyber Judge              | Scarlet & Violet JP |
-| sv5k  | ja       | Wild Force               | Scarlet & Violet JP |
-| sv5a  | ja       | Crimson Haze             | Scarlet & Violet JP |
-| sv6   | ja       | Mask of Change           | Scarlet & Violet JP |
-| sv6a  | ja       | Night Wanderer           | Scarlet & Violet JP |
-| sv7   | ja       | Stellar Miracle          | Scarlet & Violet JP |
-| sv7a  | ja       | Paradise Dragona         | Scarlet & Violet JP |
-| sv8   | ja       | Super Electric Breaker   | Scarlet & Violet JP |
-| sv8a  | ja       | Terestal Festival EX     | Scarlet & Violet JP |
-| sv9   | ja       | Battle Partners          | Scarlet & Violet JP |
-| sv9a  | ja       | Hot Wind Arena           | Scarlet & Violet JP |
-| sv10  | ja       | Glory of Team Rocket     | Scarlet & Violet JP |
-| sv11w | ja       | White Flare              | Scarlet & Violet JP |
-| sv11b | ja       | Black Bolt               | Scarlet & Violet JP |
-| sv11b | ja       | Mega Brave               | Scarlet & Violet JP |
-| sv11b | ja       | Mega Symphonia           | Scarlet & Violet JP |
+| ID       | Language | Name                     | Series              |
+|----------|----------|--------------------------|---------------------|
+| ja_s6a   | ja       | Eevee Herores            | Sword & Shield JP   |
+| ja_s12a  | jp       | VSTAR Universe           | Sword & Shield JP   |
+| ja_sv1s  | ja       | Scarlet ex               | Scarlet & Violet JP |
+| ja_sv1v  | ja       | Violet ex                | Scarlet & Violet JP |
+| ja_sv1a  | ja       | Triplet Beat             | Scarlet & Violet JP |
+| ja_sv2d  | ja       | Clay Burst               | Scarlet & Violet JP |
+| ja_sv2p  | ja       | Snow Hazard              | Scarlet & Violet JP |
+| ja_sv2a  | ja       | Pokémon Card 151         | Scarlet & Violet JP |
+| ja_sv3   | ja       | Ruler of the Black Flame | Scarlet & Violet JP |
+| ja_sv3a  | ja       | Raging Surf              | Scarlet & Violet JP |
+| ja_sv4m  | ja       | Future Flash             | Scarlet & Violet JP |
+| ja_sv4k  | ja       | Ancient Roar             | Scarlet & Violet JP |
+| ja_sv4a  | ja       | Shiny Treasure ex        | Scarlet & Violet JP |
+| ja_sv5m  | ja       | Cyber Judge              | Scarlet & Violet JP |
+| ja_sv5k  | ja       | Wild Force               | Scarlet & Violet JP |
+| ja_sv5a  | ja       | Crimson Haze             | Scarlet & Violet JP |
+| ja_sv6   | ja       | Mask of Change           | Scarlet & Violet JP |
+| ja_sv6a  | ja       | Night Wanderer           | Scarlet & Violet JP |
+| ja_sv7   | ja       | Stellar Miracle          | Scarlet & Violet JP |
+| ja_sv7a  | ja       | Paradise Dragona         | Scarlet & Violet JP |
+| ja_sv8   | ja       | Super Electric Breaker   | Scarlet & Violet JP |
+| ja_sv8a  | ja       | Terestal Festival EX     | Scarlet & Violet JP |
+| ja_sv9   | ja       | Battle Partners          | Scarlet & Violet JP |
+| ja_sv9a  | ja       | Hot Wind Arena           | Scarlet & Violet JP |
+| ja_sv10  | ja       | Glory of Team Rocket     | Scarlet & Violet JP |
+| ja_sv11w | ja       | White Flare              | Scarlet & Violet JP |
+| ja_sv11b | ja       | Black Bolt               | Scarlet & Violet JP |
+| ja_sv11b | ja       | Mega Brave               | Scarlet & Violet JP |
+| ja_sv11b | ja       | Mega Symphonia           | Scarlet & Violet JP |
 
 ## Simplified Chinese
 
@@ -222,13 +222,17 @@ Currently included sets are:
 
 ## German
 
-| ID     | Language | Name                       | Series            |
-|--------|----------|----------------------------|-------------------|
-| sv7    | de       | Stellarkrone               | Karmesin & Purpur |
-| sv8    | de       | Stürmische Funken          | Karmesin & Purpur |
-| sv8pt5 | de       | Prismatische Entwicklungen | Karmesin & Purpur |
-| sv9    | de       | Reisegefährten             | Karmesin & Purpur |
-| sv10   | de       | Ewige Rivalen              | Karmesin & Purpur |
+| ID        | Language | Name                       | Series            |
+|-----------|----------|----------------------------|-------------------|
+| de_swsh7  | de       | Drachenwandel              | Schwert & Schild  |
+| de_sv5    | de       | Gewalten der Zeit          | Karmesin & Purpur |
+| de_sv6    | de       | Maskerade im Zwielicht     | Karmesin & Purpur |
+| de_sv6pt5 | de       | Nebel der Sagen            | Karmesin & Purpur |
+| de_sv7    | de       | Stellarkrone               | Karmesin & Purpur |
+| de_sv8    | de       | Stürmische Funken          | Karmesin & Purpur |
+| de_sv8pt5 | de       | Prismatische Entwicklungen | Karmesin & Purpur |
+| de_sv9    | de       | Reisegefährten             | Karmesin & Purpur |
+| de_sv10   | de       | Ewige Rivalen              | Karmesin & Purpur |
 
 ## Trading Card Game Pocket
 
