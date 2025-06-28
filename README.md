@@ -180,7 +180,7 @@ Currently included sets are:
 | ID       | Language | Name                     | Series              |
 |----------|----------|--------------------------|---------------------|
 | ja_s6a   | ja       | Eevee Herores            | Sword & Shield JP   |
-| ja_s12a  | jp       | VSTAR Universe           | Sword & Shield JP   |
+| ja_s12a  | ja       | VSTAR Universe           | Sword & Shield JP   |
 | ja_sv1s  | ja       | Scarlet ex               | Scarlet & Violet JP |
 | ja_sv1v  | ja       | Violet ex                | Scarlet & Violet JP |
 | ja_sv1a  | ja       | Triplet Beat             | Scarlet & Violet JP |
@@ -222,17 +222,28 @@ Currently included sets are:
 
 ## German
 
-| ID        | Language | Name                       | Series            |
-|-----------|----------|----------------------------|-------------------|
-| de_swsh7  | de       | Drachenwandel              | Schwert & Schild  |
-| de_sv5    | de       | Gewalten der Zeit          | Karmesin & Purpur |
-| de_sv6    | de       | Maskerade im Zwielicht     | Karmesin & Purpur |
-| de_sv6pt5 | de       | Nebel der Sagen            | Karmesin & Purpur |
-| de_sv7    | de       | Stellarkrone               | Karmesin & Purpur |
-| de_sv8    | de       | Stürmische Funken          | Karmesin & Purpur |
-| de_sv8pt5 | de       | Prismatische Entwicklungen | Karmesin & Purpur |
-| de_sv9    | de       | Reisegefährten             | Karmesin & Purpur |
-| de_sv10   | de       | Ewige Rivalen              | Karmesin & Purpur |
+| ID           | Language | Name                       | Series            |
+|--------------|----------|----------------------------|-------------------|
+| de_base1     | de       | Grundset                   | Grundset          |
+| de_swshp     | de       | Schwert & Schild Promo     | Schwert & Schild  |
+| de_swsh7     | de       | Drachenwandel              | Schwert & Schild  |
+| de_pgo       | de       | Pokémon GO                 | Schwert & Schild  |
+| de_swsh12pt5 | de       | Zenit der Könige           | Schwert & Schild  |
+| de_svp       | de       | Karmesin & Purpur Promo    | Karmesin & Purpur |
+| de_sv1       | de       | Karmesin & Purpur          | Karmesin & Purpur |
+| de_sv2       | de       | Entwicklungen in Paldea    | Karmesin & Purpur |
+| de_sv3       | de       | Obsidianflammen            | Karmesin & Purpur |
+| de_sv3pt5    | de       | 151                        | Karmesin & Purpur |
+| de_sv4       | de       | Paradoxrift                | Karmesin & Purpur |
+| de_sv4pt5    | de       | Paldeas Schicksale         | Karmesin & Purpur |
+| de_sv5       | de       | Gewalten der Zeit          | Karmesin & Purpur |
+| de_sv6       | de       | Maskerade im Zwielicht     | Karmesin & Purpur |
+| de_sv6pt5    | de       | Nebel der Sagen            | Karmesin & Purpur |
+| de_sv7       | de       | Stellarkrone               | Karmesin & Purpur |
+| de_sv8       | de       | Stürmische Funken          | Karmesin & Purpur |
+| de_sv8pt5    | de       | Prismatische Entwicklungen | Karmesin & Purpur |
+| de_sv9       | de       | Reisegefährten             | Karmesin & Purpur |
+| de_sv10      | de       | Ewige Rivalen              | Karmesin & Purpur |
 
 ## Trading Card Game Pocket
 
