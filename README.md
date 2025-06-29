@@ -226,8 +226,21 @@ Currently included sets are:
 |--------------|----------|----------------------------|-------------------|
 | de_base1     | de       | Grundset                   | Grundset          |
 | de_swshp     | de       | Schwert & Schild Promo     | Schwert & Schild  |
+| de_swsh1     | de       | Schwert & Schild           | Schwert & Schild  |
+| de_swsh2     | de       | Clash der Rebellen         | Schwert & Schild  |
+| de_swsh3     | de       | Flammende Finsternis       | Schwert & Schild  |
+| de_swsh35    | de       | Weg des Champs             | Schwert & Schild  |
+| de_swsh4     | de       | Farbenschock               | Schwert & Schild  |
+| de_swsh45    | de       | Glänzendes Schicksal       | Schwert & Schild  |
+| de_swsh5     | de       | Kampfstile                 | Schwert & Schild  |
+| de_swsh6     | de       | Schaurige Herrschaft       | Schwert & Schild  |
 | de_swsh7     | de       | Drachenwandel              | Schwert & Schild  |
+| de_swsh8     | de       | Fusionsangriff             | Schwert & Schild  |
+| de_swsh9     | de       | Strahlende Sterne          | Schwert & Schild  |
+| de_swsh10    | de       | Astralglanz                | Schwert & Schild  |
 | de_pgo       | de       | Pokémon GO                 | Schwert & Schild  |
+| de_swsh11    | de       | Verlorener Ursprung        | Schwert & Schild  |
+| de_swsh12    | de       | Silberne Sturmwinde        | Schwert & Schild  |
 | de_swsh12pt5 | de       | Zenit der Könige           | Schwert & Schild  |
 | de_svp       | de       | Karmesin & Purpur Promo    | Karmesin & Purpur |
 | de_sv1       | de       | Karmesin & Purpur          | Karmesin & Purpur |
