@@ -173,7 +173,7 @@ Currently included sets are:
 | sv10        | en       | Destined Rivals                    | Scarlet & Violet       |
 | sv11w       | en       | White Flare                        | Scarlet & Violet       |
 | sv11b       | en       | Black Bolt                         | Scarlet & Violet       |
-| meg (tba)   | en       | Mega Evolution                     | Scarlet & Violet       |
+| meg         | en       | Mega Evolution                     | Scarlet & Violet       |
 
 ## Japanese
 
