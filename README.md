@@ -171,8 +171,8 @@ Currently included sets are:
 | sv8pt5      | en       | Prismatic Evolutions               | Scarlet & Violet       |
 | sv9         | en       | Journey Together                   | Scarlet & Violet       |
 | sv10        | en       | Destined Rivals                    | Scarlet & Violet       |
-| sv11w       | en       | White Flare                        | Scarlet & Violet       |
-| sv11b       | en       | Black Bolt                         | Scarlet & Violet       |
+| rsv10pt5       | en       | White Flare                        | Scarlet & Violet       |
+| zsv10pt5       | en       | Black Bolt                         | Scarlet & Violet       |
 | meg         | en       | Mega Evolution                     | Scarlet & Violet       |
 
 ## Japanese
