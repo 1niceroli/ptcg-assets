@@ -257,6 +257,8 @@ Currently included sets are:
 | de_sv8pt5    | de       | Prismatische Entwicklungen | Karmesin & Purpur |
 | de_sv9       | de       | Reisegefährten             | Karmesin & Purpur |
 | de_sv10      | de       | Ewige Rivalen              | Karmesin & Purpur |
+| de_rsv10pt5       | de       | Schwarze Blitze             | Karmesin & Purpur |
+| de_zsv10pt5      | de       | Weiße Flammen              | Karmesin & Purpur |
 
 ## Trading Card Game Pocket
 
