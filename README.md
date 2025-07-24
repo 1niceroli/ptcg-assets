@@ -171,8 +171,8 @@ Currently included sets are:
 | sv8pt5      | en       | Prismatic Evolutions               | Scarlet & Violet       |
 | sv9         | en       | Journey Together                   | Scarlet & Violet       |
 | sv10        | en       | Destined Rivals                    | Scarlet & Violet       |
-| rsv10pt5       | en       | White Flare                        | Scarlet & Violet       |
-| zsv10pt5       | en       | Black Bolt                         | Scarlet & Violet       |
+| rsv10pt5    | en       | White Flare                        | Scarlet & Violet       |
+| zsv10pt5    | en       | Black Bolt                         | Scarlet & Violet       |
 | meg         | en       | Mega Evolution                     | Scarlet & Violet       |
 
 ## Japanese
@@ -257,8 +257,8 @@ Currently included sets are:
 | de_sv8pt5    | de       | Prismatische Entwicklungen | Karmesin & Purpur |
 | de_sv9       | de       | Reisegefährten             | Karmesin & Purpur |
 | de_sv10      | de       | Ewige Rivalen              | Karmesin & Purpur |
-| de_rsv10pt5       | de       | Schwarze Blitze             | Karmesin & Purpur |
-| de_zsv10pt5      | de       | Weiße Flammen              | Karmesin & Purpur |
+| de_rsv10pt5  | de       | Schwarze Blitze            | Karmesin & Purpur |
+| de_zsv10pt5  | de       | Weiße Flammen              | Karmesin & Purpur |
 
 ## Trading Card Game Pocket
 
@@ -272,6 +272,7 @@ Currently included sets are:
 | tcgpa3  | en       | Celestial Guardians     | Trading Card Game Pocket |
 | tcgpa3a | en       | Extradimensional Crisis | Trading Card Game Pocket |
 | tcgpa3b | en       | Eevee Grove             | Trading Card Game Pocket |
+| tcgpa4  | en       | Wisdom of Sea and Sky   | Trading Card Game Pocket |
 
 ## Specials
 
