@@ -173,7 +173,8 @@ Currently included sets are:
 | sv10        | en       | Destined Rivals                    | Scarlet & Violet       |
 | rsv10pt5    | en       | White Flare                        | Scarlet & Violet       |
 | zsv10pt5    | en       | Black Bolt                         | Scarlet & Violet       |
-| meg         | en       | Mega Evolution                     | Scarlet & Violet       |
+| meg         | en       | Mega Evolution                     | Mega Evolution         |
+| me2         | en       | Phantasmal Flames                  | Mega Evolution         |
 
 ## Japanese
 
@@ -206,8 +207,9 @@ Currently included sets are:
 | ja_sv10  | ja       | Glory of Team Rocket     | Scarlet & Violet JP |
 | ja_sv11w | ja       | White Flare              | Scarlet & Violet JP |
 | ja_sv11b | ja       | Black Bolt               | Scarlet & Violet JP |
-| ja_sv11b | ja       | Mega Brave               | Scarlet & Violet JP |
-| ja_sv11b | ja       | Mega Symphonia           | Scarlet & Violet JP |
+| ja_m1l   | ja       | Mega Brave               | Mega Evolution JP   |
+| ja_m1s   | ja       | Mega Symphonia           | Mega Evolution JP   |
+| ja_m2    | ja       | Mega Inferno X           | Mega Evolution JP   |
 
 ## Simplified Chinese
 
@@ -273,6 +275,7 @@ Currently included sets are:
 | tcgpa3a | en       | Extradimensional Crisis | Trading Card Game Pocket |
 | tcgpa3b | en       | Eevee Grove             | Trading Card Game Pocket |
 | tcgpa4  | en       | Wisdom of Sea and Sky   | Trading Card Game Pocket |
+| tcgpa4  | en       | Secluded Springs        | Trading Card Game Pocket |
 
 ## Specials
 
