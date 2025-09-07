@@ -173,7 +173,7 @@ Currently included sets are:
 | sv10        | en       | Destined Rivals                    | Scarlet & Violet       |
 | rsv10pt5    | en       | White Flare                        | Scarlet & Violet       |
 | zsv10pt5    | en       | Black Bolt                         | Scarlet & Violet       |
-| meg         | en       | Mega Evolution                     | Mega Evolution         |
+| me1         | en       | Mega Evolution                     | Mega Evolution         |
 | me2         | en       | Phantasmal Flames                  | Mega Evolution         |
 
 ## Japanese
@@ -264,7 +264,8 @@ Currently included sets are:
 | de_sv10      | de       | Ewige Rivalen              | Karmesin & Purpur |
 | de_rsv10pt5  | de       | Schwarze Blitze            | Karmesin & Purpur |
 | de_zsv10pt5  | de       | Weiße Flammen              | Karmesin & Purpur |
-| de_me2       | de       | Fatale Flammen             | Karmesin & Purpur |
+| de_me1       | de       | Mega Entwicklung           | Mega Entwicklung  |
+| de_me2       | de       | Fatale Flammen             | Mega Entwicklung  |
 
 ## Trading Card Game Pocket
 
