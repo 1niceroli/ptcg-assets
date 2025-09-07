@@ -213,14 +213,17 @@ Currently included sets are:
 
 ## Simplified Chinese
 
-| ID    | Language | Name                         | Series        |
-|-------|----------|------------------------------|---------------|
-| csm1a | zh-CN    | Storming Emergence: Radiance | Sun & Moon CN |
-| csm1b | zh-CN    | Storming Emergence: Verdant  | Sun & Moon CN |
-| csm1c | zh-CN    | Storming Emergence: Abundant | Sun & Moon CN |
-| csm1c | zh-CN    | Shining Synergy: Shower      | Sun & Moon CN |
-| csm1c | zh-CN    | Shining Synergy: Supreme     | Sun & Moon CN |
-| csm1c | zh-CN    | Shining Synergy: Summon      | Sun & Moon CN |
+| ID    | Language | Name                         | Series              |
+|-------|----------|------------------------------|---------------------|
+| csm1a | zh-CN    | Storming Emergence: Radiance | Sun & Moon CN       |
+| csm1b | zh-CN    | Storming Emergence: Verdant  | Sun & Moon CN       |
+| csm1c | zh-CN    | Storming Emergence: Abundant | Sun & Moon CN       |
+| csm1c | zh-CN    | Shining Synergy: Shower      | Sun & Moon CN       |
+| csm1c | zh-CN    | Shining Synergy: Supreme     | Sun & Moon CN       |
+| csm1c | zh-CN    | Shining Synergy: Summon      | Sun & Moon CN       |
+| cbb1c | zh-CN    | Gem Pack Vol. 1              | Scarlet & Violet CN |
+| cbb2c | zh-CN    | Gem Pack Vol. 2              | Scarlet & Violet CN |
+| cbb3c | zh-CN    | Gem Pack Vol. 3              | Scarlet & Violet CN |
 
 ## German
 
@@ -261,6 +264,7 @@ Currently included sets are:
 | de_sv10      | de       | Ewige Rivalen              | Karmesin & Purpur |
 | de_rsv10pt5  | de       | Schwarze Blitze            | Karmesin & Purpur |
 | de_zsv10pt5  | de       | Weiße Flammen              | Karmesin & Purpur |
+| de_me2       | de       | Fatale Flammen             | Karmesin & Purpur |
 
 ## Trading Card Game Pocket
 
