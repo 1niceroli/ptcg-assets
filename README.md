@@ -280,7 +280,8 @@ Currently included sets are:
 | tcgpa3a | en       | Extradimensional Crisis | Trading Card Game Pocket |
 | tcgpa3b | en       | Eevee Grove             | Trading Card Game Pocket |
 | tcgpa4  | en       | Wisdom of Sea and Sky   | Trading Card Game Pocket |
-| tcgpa4  | en       | Secluded Springs        | Trading Card Game Pocket |
+| tcgpa4a | en       | Secluded Springs        | Trading Card Game Pocket |
+| tcgpa4b | en       | Deluxe Pack: ex         | Trading Card Game Pocket |
 
 ## Specials
 
