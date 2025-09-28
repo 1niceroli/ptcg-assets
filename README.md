@@ -213,17 +213,24 @@ Currently included sets are:
 
 ## Simplified Chinese
 
-| ID    | Language | Name                         | Series              |
-|-------|----------|------------------------------|---------------------|
-| csm1a | zh-CN    | Storming Emergence: Radiance | Sun & Moon CN       |
-| csm1b | zh-CN    | Storming Emergence: Verdant  | Sun & Moon CN       |
-| csm1c | zh-CN    | Storming Emergence: Abundant | Sun & Moon CN       |
-| csm1c | zh-CN    | Shining Synergy: Shower      | Sun & Moon CN       |
-| csm1c | zh-CN    | Shining Synergy: Supreme     | Sun & Moon CN       |
-| csm1c | zh-CN    | Shining Synergy: Summon      | Sun & Moon CN       |
-| cbb1c | zh-CN    | Gem Pack Vol. 1              | Scarlet & Violet CN |
-| cbb2c | zh-CN    | Gem Pack Vol. 2              | Scarlet & Violet CN |
-| cbb3c | zh-CN    | Gem Pack Vol. 3              | Scarlet & Violet CN |
+| ID    | Language | Name                           | Series              |
+|-------|----------|--------------------------------|---------------------|
+| csm1a | zh-CN    | Storming Emergence: Radiance   | Sun & Moon CN       |
+| csm1b | zh-CN    | Storming Emergence: Verdant    | Sun & Moon CN       |
+| csm1c | zh-CN    | Storming Emergence: Abundant   | Sun & Moon CN       |
+| csm1c | zh-CN    | Shining Synergy: Shower        | Sun & Moon CN       |
+| csm1c | zh-CN    | Shining Synergy: Supreme       | Sun & Moon CN       |
+| csm1c | zh-CN    | Shining Synergy: Summon        | Sun & Moon CN       |
+| c_svp | zh-CN    | Scarlet & Violet Promo         | Scarlet & Violet CN |
+| c151c | zh-CN    | Collect 151                    | Scarlet & Violet CN |
+| cbb1c | zh-CN    | Gem Pack Vol. 1                | Scarlet & Violet CN |
+| cbb2c | zh-CN    | Gem Pack Vol. 2                | Scarlet & Violet CN |
+| cbb3c | zh-CN    | Gem Pack Vol. 3                | Scarlet & Violet CN |
+| csv1c | zh-CN    | Ancient Times, Future Progress | Scarlet & Violet CN |
+| csv2c | zh-CN    | Miracle Journey                | Scarlet & Violet CN |
+| csv3c | zh-CN    | Fearless Terastal              | Scarlet & Violet CN |
+| csv4c | zh-CN    | Bonus Round                    | Scarlet & Violet CN |
+| csv5c | zh-CN    | Ardent Obisidian               | Scarlet & Violet CN |
 
 ## German
 
