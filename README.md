@@ -231,6 +231,7 @@ Currently included sets are:
 | csv3c | zh-CN    | Fearless Terastal              | Scarlet & Violet CN |
 | csv4c | zh-CN    | Bonus Round                    | Scarlet & Violet CN |
 | csv5c | zh-CN    | Ardent Obisidian               | Scarlet & Violet CN |
+| csv6c | zh-CN    | True Mystery                   | Scarlet & Violet CN |
 
 ## German
 
@@ -289,6 +290,7 @@ Currently included sets are:
 | tcgpa4  | en       | Wisdom of Sea and Sky   | Trading Card Game Pocket |
 | tcgpa4a | en       | Secluded Springs        | Trading Card Game Pocket |
 | tcgpa4b | en       | Deluxe Pack: ex         | Trading Card Game Pocket |
+| tcgpb1  | en       | Mega Rising             | Trading Card Game Pocket |
 
 ## Specials
 
