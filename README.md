@@ -279,6 +279,7 @@ Currently included sets are:
 
 | ID      | Language | Name                    | Series                   |
 |---------|----------|-------------------------|--------------------------|
+| tcgppa  | en       | Promo A                 | Trading Card Game Pocket |
 | tcgp1   | en       | Genetic Apex            | Trading Card Game Pocket |
 | tcgp1a  | en       | Mythical Island         | Trading Card Game Pocket |
 | tcgpa2  | en       | Space-Time Smackdown    | Trading Card Game Pocket |
@@ -291,6 +292,7 @@ Currently included sets are:
 | tcgpa4a | en       | Secluded Springs        | Trading Card Game Pocket |
 | tcgpa4b | en       | Deluxe Pack: ex         | Trading Card Game Pocket |
 | tcgpb1  | en       | Mega Rising             | Trading Card Game Pocket |
+| tcgppb  | en       | Promo B                 | Trading Card Game Pocket |
 
 ## Specials
 
