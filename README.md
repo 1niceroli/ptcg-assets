@@ -210,6 +210,7 @@ Currently included sets are:
 | ja_m1l   | ja       | Mega Brave               | Mega Evolution JP   |
 | ja_m1s   | ja       | Mega Symphonia           | Mega Evolution JP   |
 | ja_m2    | ja       | Mega Inferno X           | Mega Evolution JP   |
+| ja_m2a   | ja       | MEGA Dream ex            | Mega Evolution JP   |
 
 ## Simplified Chinese
 
