@@ -175,6 +175,7 @@ Currently included sets are:
 | zsv10pt5    | en       | Black Bolt                         | Scarlet & Violet       |
 | me1         | en       | Mega Evolution                     | Mega Evolution         |
 | me2         | en       | Phantasmal Flames                  | Mega Evolution         |
+| me3         | en       | Ascended Heroes                    | Mega Evolution         |
 
 ## Japanese
 
