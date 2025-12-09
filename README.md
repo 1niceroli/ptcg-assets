@@ -234,6 +234,7 @@ Currently included sets are:
 | csv4c | zh-CN    | Bonus Round                    | Scarlet & Violet CN |
 | csv5c | zh-CN    | Ardent Obisidian               | Scarlet & Violet CN |
 | csv6c | zh-CN    | True Mystery                   | Scarlet & Violet CN |
+| csv7c | zh-CN    | Blade Awakening                | Scarlet & Violet CN |
 
 ## German
 
