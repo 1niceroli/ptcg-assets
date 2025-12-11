@@ -296,6 +296,7 @@ Currently included sets are:
 | tcgpa4b | en       | Deluxe Pack: ex         | Trading Card Game Pocket |
 | tcgpb1  | en       | Mega Rising             | Trading Card Game Pocket |
 | tcgppb  | en       | Promo B                 | Trading Card Game Pocket |
+| tcgpb1a | en       | Crimson Blaze           | Trading Card Game Pocket |
 
 ## Specials
 
