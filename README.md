@@ -176,6 +176,7 @@ Currently included sets are:
 | me1         | en       | Mega Evolution                     | Mega Evolution         |
 | me2         | en       | Phantasmal Flames                  | Mega Evolution         |
 | me3         | en       | Ascended Heroes                    | Mega Evolution         |
+| me4         | en       | Perfect Order                      | Mega Evolution         |
 
 ## Japanese
 
@@ -212,6 +213,7 @@ Currently included sets are:
 | ja_m1s   | ja       | Mega Symphonia           | Mega Evolution JP   |
 | ja_m2    | ja       | Mega Inferno X           | Mega Evolution JP   |
 | ja_m2a   | ja       | MEGA Dream ex            | Mega Evolution JP   |
+| ja_m3    | ja       | Nihil Zero               | Mega Evolution JP   |
 
 ## Simplified Chinese
 
@@ -228,6 +230,7 @@ Currently included sets are:
 | cbb1c | zh-CN    | Gem Pack Vol. 1                | Scarlet & Violet CN |
 | cbb2c | zh-CN    | Gem Pack Vol. 2                | Scarlet & Violet CN |
 | cbb3c | zh-CN    | Gem Pack Vol. 3                | Scarlet & Violet CN |
+| cbb4c | zh-CN    | Gem Pack Vol. 4                | Scarlet & Violet CN |
 | csv1c | zh-CN    | Ancient Times, Future Progress | Scarlet & Violet CN |
 | csv2c | zh-CN    | Miracle Journey                | Scarlet & Violet CN |
 | csv3c | zh-CN    | Fearless Terastal              | Scarlet & Violet CN |
@@ -277,6 +280,8 @@ Currently included sets are:
 | de_zsv10pt5  | de       | Weiße Flammen              | Karmesin & Purpur |
 | de_me1       | de       | Mega Entwicklung           | Mega Entwicklung  |
 | de_me2       | de       | Fatale Flammen             | Mega Entwicklung  |
+| de_me3       | de       | Erhabene Helden            | Mega Entwicklung  |
+| de_me4       | de       | Optimale Ordnung           | Mega Entwicklung  |
 
 ## Trading Card Game Pocket
 
