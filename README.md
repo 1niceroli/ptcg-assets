@@ -303,6 +303,7 @@ Currently included sets are:
 | tcgppb  | en       | Promo B                 | Trading Card Game Pocket |
 | tcgpb1a | en       | Crimson Blaze           | Trading Card Game Pocket |
 | tcgpb2  | en       | Fantastical Parade      | Trading Card Game Pocket |
+| tcgpb2a | en       | Paldean Wonders         | Trading Card Game Pocket |
 
 ## Specials
 
