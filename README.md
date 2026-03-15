@@ -177,6 +177,7 @@ Currently included sets are:
 | me2         | en       | Phantasmal Flames                  | Mega Evolution         |
 | me2pt5      | en       | Ascended Heroes                    | Mega Evolution         |
 | me3         | en       | Perfect Order                      | Mega Evolution         |
+| me4         | en       | Chaos Rising                       | Mega Evolution         |
 
 ## Japanese
 
