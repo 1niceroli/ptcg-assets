@@ -285,6 +285,7 @@ Currently included sets are:
 | de_me2       | de       | Fatale Flammen             | Mega Entwicklung  |
 | de_me2pt5    | de       | Erhabene Helden            | Mega Entwicklung  |
 | de_me3       | de       | Optimale Ordnung           | Mega Entwicklung  |
+| de_me4       | de       | Wachsendes Chaos           | Mega Entwicklung  |
 
 ## Trading Card Game Pocket
 
