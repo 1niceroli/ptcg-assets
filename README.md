@@ -181,7 +181,7 @@ Currently included sets are:
 
 ## Japanese
 
-| ID       | Language | Name                     | Series              |
+| ID       | Language | Name                        | Series              |
 |----------|----------|-----------------------------|---------------------|
 | ja_s6a   | ja       | Eevee Heroes                | Sword & Shield JP   |
 | ja_s8a   | ja       | 25th Anniversary Collection | Sword & Shield JP   |
@@ -216,6 +216,7 @@ Currently included sets are:
 | ja_m2    | ja       | Mega Inferno X              | Mega Evolution JP   |
 | ja_m2a   | ja       | MEGA Dream ex               | Mega Evolution JP   |
 | ja_m3    | ja       | Nihil Zero                  | Mega Evolution JP   |
+| ja_m4    | ja       | Ninja Spinner               | Mega Evolution JP   |
 
 ## Simplified Chinese
 
