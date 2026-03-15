@@ -175,45 +175,46 @@ Currently included sets are:
 | zsv10pt5    | en       | Black Bolt                         | Scarlet & Violet       |
 | me1         | en       | Mega Evolution                     | Mega Evolution         |
 | me2         | en       | Phantasmal Flames                  | Mega Evolution         |
-| me3         | en       | Ascended Heroes                    | Mega Evolution         |
-| me4         | en       | Perfect Order                      | Mega Evolution         |
+| me2pt5      | en       | Ascended Heroes                    | Mega Evolution         |
+| me3         | en       | Perfect Order                      | Mega Evolution         |
 
 ## Japanese
 
 | ID       | Language | Name                     | Series              |
-|----------|----------|--------------------------|---------------------|
-| ja_s6a   | ja       | Eevee Herores            | Sword & Shield JP   |
-| ja_s12a  | ja       | VSTAR Universe           | Sword & Shield JP   |
-| ja_sv1s  | ja       | Scarlet ex               | Scarlet & Violet JP |
-| ja_sv1v  | ja       | Violet ex                | Scarlet & Violet JP |
-| ja_sv1a  | ja       | Triplet Beat             | Scarlet & Violet JP |
-| ja_sv2d  | ja       | Clay Burst               | Scarlet & Violet JP |
-| ja_sv2p  | ja       | Snow Hazard              | Scarlet & Violet JP |
-| ja_sv2a  | ja       | Pokémon Card 151         | Scarlet & Violet JP |
-| ja_sv3   | ja       | Ruler of the Black Flame | Scarlet & Violet JP |
-| ja_sv3a  | ja       | Raging Surf              | Scarlet & Violet JP |
-| ja_sv4m  | ja       | Future Flash             | Scarlet & Violet JP |
-| ja_sv4k  | ja       | Ancient Roar             | Scarlet & Violet JP |
-| ja_sv4a  | ja       | Shiny Treasure ex        | Scarlet & Violet JP |
-| ja_sv5m  | ja       | Cyber Judge              | Scarlet & Violet JP |
-| ja_sv5k  | ja       | Wild Force               | Scarlet & Violet JP |
-| ja_sv5a  | ja       | Crimson Haze             | Scarlet & Violet JP |
-| ja_sv6   | ja       | Mask of Change           | Scarlet & Violet JP |
-| ja_sv6a  | ja       | Night Wanderer           | Scarlet & Violet JP |
-| ja_sv7   | ja       | Stellar Miracle          | Scarlet & Violet JP |
-| ja_sv7a  | ja       | Paradise Dragona         | Scarlet & Violet JP |
-| ja_sv8   | ja       | Super Electric Breaker   | Scarlet & Violet JP |
-| ja_sv8a  | ja       | Terestal Festival EX     | Scarlet & Violet JP |
-| ja_sv9   | ja       | Battle Partners          | Scarlet & Violet JP |
-| ja_sv9a  | ja       | Hot Wind Arena           | Scarlet & Violet JP |
-| ja_sv10  | ja       | Glory of Team Rocket     | Scarlet & Violet JP |
-| ja_sv11w | ja       | White Flare              | Scarlet & Violet JP |
-| ja_sv11b | ja       | Black Bolt               | Scarlet & Violet JP |
-| ja_m1l   | ja       | Mega Brave               | Mega Evolution JP   |
-| ja_m1s   | ja       | Mega Symphonia           | Mega Evolution JP   |
-| ja_m2    | ja       | Mega Inferno X           | Mega Evolution JP   |
-| ja_m2a   | ja       | MEGA Dream ex            | Mega Evolution JP   |
-| ja_m3    | ja       | Nihil Zero               | Mega Evolution JP   |
+|----------|----------|-----------------------------|---------------------|
+| ja_s6a   | ja       | Eevee Heroes                | Sword & Shield JP   |
+| ja_s8a   | ja       | 25th Anniversary Collection | Sword & Shield JP   |
+| ja_s12a  | ja       | VSTAR Universe              | Sword & Shield JP   |
+| ja_sv1s  | ja       | Scarlet ex                  | Scarlet & Violet JP |
+| ja_sv1v  | ja       | Violet ex                   | Scarlet & Violet JP |
+| ja_sv1a  | ja       | Triplet Beat                | Scarlet & Violet JP |
+| ja_sv2d  | ja       | Clay Burst                  | Scarlet & Violet JP |
+| ja_sv2p  | ja       | Snow Hazard                 | Scarlet & Violet JP |
+| ja_sv2a  | ja       | Pokémon Card 151            | Scarlet & Violet JP |
+| ja_sv3   | ja       | Ruler of the Black Flame    | Scarlet & Violet JP |
+| ja_sv3a  | ja       | Raging Surf                 | Scarlet & Violet JP |
+| ja_sv4m  | ja       | Future Flash                | Scarlet & Violet JP |
+| ja_sv4k  | ja       | Ancient Roar                | Scarlet & Violet JP |
+| ja_sv4a  | ja       | Shiny Treasure ex           | Scarlet & Violet JP |
+| ja_sv5m  | ja       | Cyber Judge                 | Scarlet & Violet JP |
+| ja_sv5k  | ja       | Wild Force                  | Scarlet & Violet JP |
+| ja_sv5a  | ja       | Crimson Haze                | Scarlet & Violet JP |
+| ja_sv6   | ja       | Mask of Change              | Scarlet & Violet JP |
+| ja_sv6a  | ja       | Night Wanderer              | Scarlet & Violet JP |
+| ja_sv7   | ja       | Stellar Miracle             | Scarlet & Violet JP |
+| ja_sv7a  | ja       | Paradise Dragona            | Scarlet & Violet JP |
+| ja_sv8   | ja       | Super Electric Breaker      | Scarlet & Violet JP |
+| ja_sv8a  | ja       | Terestal Festival EX        | Scarlet & Violet JP |
+| ja_sv9   | ja       | Battle Partners             | Scarlet & Violet JP |
+| ja_sv9a  | ja       | Hot Wind Arena              | Scarlet & Violet JP |
+| ja_sv10  | ja       | Glory of Team Rocket        | Scarlet & Violet JP |
+| ja_sv11w | ja       | White Flare                 | Scarlet & Violet JP |
+| ja_sv11b | ja       | Black Bolt                  | Scarlet & Violet JP |
+| ja_m1l   | ja       | Mega Brave                  | Mega Evolution JP   |
+| ja_m1s   | ja       | Mega Symphonia              | Mega Evolution JP   |
+| ja_m2    | ja       | Mega Inferno X              | Mega Evolution JP   |
+| ja_m2a   | ja       | MEGA Dream ex               | Mega Evolution JP   |
+| ja_m3    | ja       | Nihil Zero                  | Mega Evolution JP   |
 
 ## Simplified Chinese
 
@@ -280,8 +281,8 @@ Currently included sets are:
 | de_zsv10pt5  | de       | Weiße Flammen              | Karmesin & Purpur |
 | de_me1       | de       | Mega Entwicklung           | Mega Entwicklung  |
 | de_me2       | de       | Fatale Flammen             | Mega Entwicklung  |
-| de_me3       | de       | Erhabene Helden            | Mega Entwicklung  |
-| de_me4       | de       | Optimale Ordnung           | Mega Entwicklung  |
+| de_me2pt5    | de       | Erhabene Helden            | Mega Entwicklung  |
+| de_me3       | de       | Optimale Ordnung           | Mega Entwicklung  |
 
 ## Trading Card Game Pocket
 
