@@ -173,6 +173,7 @@ Currently included sets are:
 | sv10        | en       | Destined Rivals                    | Scarlet & Violet       |
 | rsv10pt5    | en       | White Flare                        | Scarlet & Violet       |
 | zsv10pt5    | en       | Black Bolt                         | Scarlet & Violet       |
+| mep         | en       | Mega Evolution Promos              | Mega Evolution         |
 | me1         | en       | Mega Evolution                     | Mega Evolution         |
 | me2         | en       | Phantasmal Flames                  | Mega Evolution         |
 | me2pt5      | en       | Ascended Heroes                    | Mega Evolution         |
@@ -308,6 +309,7 @@ Currently included sets are:
 | tcgpb1a | en       | Crimson Blaze           | Trading Card Game Pocket |
 | tcgpb2  | en       | Fantastical Parade      | Trading Card Game Pocket |
 | tcgpb2a | en       | Paldean Wonders         | Trading Card Game Pocket |
+| tcgpb2b | en       | Mega Shine              | Trading Card Game Pocket |
 
 ## Specials
 
