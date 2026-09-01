@@ -316,6 +316,9 @@ Currently included sets are:
 | tcgpb2  | en       | Fantastical Parade      | Trading Card Game Pocket |
 | tcgpb2a | en       | Paldean Wonders         | Trading Card Game Pocket |
 | tcgpb2b | en       | Mega Shine              | Trading Card Game Pocket |
+| tcgpb3  | en       | Pulsing Aura            | Trading Card Game Pocket |
+| tcgpb4  | en       | Ruler of the Skies      | Trading Card Game Pocket |
+| tcgpb4a | en       | Team Rocket's Ambition  | Trading Card Game Pocket |
 
 ## Specials
 
